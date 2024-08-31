@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" src="https://media.licdn.com/dms/image/D4D16AQFBZPS2cIHrvQ/profile-displaybackgroundimage-shrink_350_1400/0/1715062913896?e=1721865600&v=beta&t=b9L4ppPNhNWyLsfYvSeYIFeqvOO4_0eCGAIuXZKkePg" />
+<img align="center" alt="coding" src="D:/Github banner" />
 <h1 align="center">Hi 👋, I'm Apoorva Sunkad</h1>
 <h3 align="center">A passionate and Aspiring Software Engineer from India</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
