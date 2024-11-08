@@ -1,5 +1,3 @@
-
-<img align="center" alt="coding" src="[https://www.canva.com/design/DAGPaRucI8I/njAKg0n5yCSLn42NJObJjg/edit?utm_content=DAGPaRucI8I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGPaRucI8I/GviMpx1hVh05wG0LxxQkFw/view?utm_content=DAGPaRucI8I&utm_campaign=designshare&utm_medium=link&utm_source=editor)" />
 <h1 align="center">Hi 👋, I'm Apoorva Sunkad</h1>
 <h3 align="center">A passionate and Aspiring Software Engineer from India</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
@@ -39,3 +37,7 @@
 
 
 [![An image of @apoorvasunkad's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/apoorvasunkad)](https://holopin.io/@apoorvasunkad)
+
+My Postman API Fundamentals Student Expert Badge:
+<img src="![Postman - Postman API Fundamentals Student Expert - 2024-11-05](https://github.com/user-attachments/assets/5f8eaf60-3974-4317-a2e2-db037f94de84)
+" width="100px" height="100px" /> 
