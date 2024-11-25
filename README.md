@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://apoorvasunkad.pages.dev/](https://apoorvasunkad.pages.dev/)
+- 👨‍💻 All of my projects are available at [https://apoorvasunkad-portflio.netlify.app/](https://apoorvasunkad-portflio.netlify.app/)
 
 - 💬 Ask me about **C++,Python, MySQL, Operating systems, HTML, CSS,Javascript**
 
