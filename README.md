@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Apoorva Sunkad</h1>
-<h3 align="center">A passionate and Aspiring Software Engineer from India</h3>
+<h3 align="center">Software Engineer @Commscope Networks</h3>
 <img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvasunkad&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvasunkad" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorvasunkad" alt="apoorvasunkad" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Linux and kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://apoorvasunkad-portflio.netlify.app/](https://apoorvasunkad-portflio.netlify.app/)
 
